@@ -5,7 +5,9 @@
 
 Leveraging the below technologies to create an application that simulates simple banking transactions.
 
-Technologies: HTML5, JavaScript, CSS, Bootstrap, MySQL, Node , Express
+* Technologies: 
+ * Backend : Node, Express, MySQL
+ * Frontend: HTML5, JavaScript, CSS, Bootstrap
 
 **Requirements**
 *	Build the REST API using Node, Express, MySQL
